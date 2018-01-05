@@ -11,6 +11,7 @@ playGame::playGame(int playerTurns, std::string* spots)
     {
         if(playerTurns % 2 == 1)
         {
+            std::cout << std::endl;
             std::cout << "Player 1 it's your turn" << std::endl;
             std::cout << "========================================" << std::endl;
             std::cin >> p1;
@@ -40,6 +41,7 @@ playGame::playGame(int playerTurns, std::string* spots)
 
         if(playerTurns % 2 == 0)
         {
+            std::cout << std::endl;
             std::cout << "Player 2 it's your turn" << std::endl;
             std::cout << "========================================" << std::endl;
             std::cin >> p2;
