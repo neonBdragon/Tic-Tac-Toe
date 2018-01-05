@@ -10,7 +10,6 @@ int main()
     int playerTurns = 1;
     string spots[] = {"1","2","3","4","5","6","7","8","9"};
 
-    cout << "Hello world!" << endl;
     char gameContinue = '0';
 	int p1W = 0, p2W = 0, ties = 0;
 	cout << "\n";
