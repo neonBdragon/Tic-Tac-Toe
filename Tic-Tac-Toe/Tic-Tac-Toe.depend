@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1515116282 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\main.cpp
+	<iostream>
+	"playGame.hpp"
+	"resetBoard.hpp"
+
+1515108945 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\globals.hpp
+	<string>
+
+1515112035 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\drawboard.cpp
+	"drawBoard.hpp"
+
+1515115558 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\drawboard.hpp
+	<iostream>
+
+1515115521 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\drawboard.cpp
+	"drawBoard.hpp"
+
+1515114261 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\globals.cpp
+	"Globals.hpp"
+
+1515111379 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\changespot.cpp
+	"changeSpot.hpp"
+
+1515111384 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\changespot.hpp
+	<string>
+	<iostream>
+
+1515116794 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\resetboard.cpp
+	"resetBoard.hpp"
+
+1515116798 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\resetboard.hpp
+	<string>
+
+1515115543 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\checkboard.cpp
+	"checkBoard.hpp"
+
+1515113707 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\checkboard.hpp
+	<string>
+
+1515115670 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\include\playgame.hpp
+	<drawBoard.hpp>
+	<checkBoard.hpp>
+	<changeSpot.hpp>
+	<iostream>
+
+1515110682 e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\checkboard.cpp
+	"checkBoard.hpp"
+
+1515117398 source:e:\mystuff\programming\c++\practice\codeblocks\tic-tac-toe\src\playgame.cpp
+	"playGame.hpp"
+
